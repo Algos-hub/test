@@ -12,6 +12,6 @@
   ],
   "env": {
     "APP_ENV": "dev",
-    "APP_SECRET": "6f71aad5435fe6e70b4481ffw8b1c3d2c2b6bec"
+    "APP_SECRET": "a7f118f07eb65ac5e873daca6f9400c6"
   }
 }
