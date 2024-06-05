@@ -53,6 +53,10 @@
     ],
     "post-update-cmd": [
       "@auto-scripts"
+    ],
+    "vercel": [
+      "@php -v",
+      "npm -v"
     ]
   },
   "conflict": {
