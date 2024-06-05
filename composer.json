@@ -11,6 +11,7 @@
     "symfony/dotenv": "7.1.*",
     "symfony/flex": "^2",
     "symfony/framework-bundle": "7.1.*",
+    "symfony/maker-bundle": "^1.59",
     "symfony/runtime": "7.1.*",
     "symfony/yaml": "7.1.*",
     "tracy/tracy": "^2.10"
@@ -63,8 +64,5 @@
       "allow-contrib": false,
       "require": "7.1.*"
     }
-  },
-  "require-dev": {
-    "symfony/maker-bundle": "^1.59"
   }
 }
